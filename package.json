@@ -13,7 +13,8 @@
   "scripts": {
     "build": "nwb build-react-component",
     "clean": "nwb clean-module && npm clean-demo",
-    "start": "nwb serve-react-demo"
+    "start": "nwb serve-react-demo",
+    "postinstall": "yarn build"
   },
   "dependencies": {
     "autobind-decorator": "^1.3.4",
