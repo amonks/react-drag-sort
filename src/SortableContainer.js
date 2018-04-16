@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react'
+import React from 'react'
+import PropTypes from 'prop-types';
 import autobind from 'autobind-decorator'
 import R from 'ramda'
 import { DropTarget, DragDropContext } from 'react-dnd'
