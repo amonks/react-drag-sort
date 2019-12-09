@@ -1,7 +1,5 @@
 # react-drag-sort
 
-*This fork of [react-drag-sort](https://github.com/amonks/react-drag-sort) adds support to react 16. It updates reference of* **PropTypes** *from 'react' to 'prop-types' module, as per the changes to [prop-types support](https://reactjs.org/docs/typechecking-with-proptypes.html)*
-
 generic component for draggable sort
 
 based on react-dnd
